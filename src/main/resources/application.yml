@@ -13,13 +13,13 @@ spring:
       client:
         registration:
           auth0:
-            client-id: guAMudhJ8kzQaTlPArnYAAFBIoFkpMq3
-            client-secret: C3y5IqgiYMnbHhOqgZY9KVKRx5Ni0bKsDTtrjAhpClaTmW1Na4dHp_-zZeyheiiw
+            client-id: GdzV8F8mfvKmw9CkGmgOYBkQaN0pqN51
+            client-secret: p0Rnva2r4u27oKL9HWiWc9Ex2ys9Aq0-DbjWy2aWHOFwN7XwT9l8MxhITjZMsL2Q
             scope:
               - openid
               - profile
               - email
         provider:
           auth0:
-            issuer-uri: https://dev-yl8vz4jyvmwrvnlx.us.auth0.com/
+            issuer-uri: https://dev-cxqcbn18bkf6d12v.us.auth0.com
 
